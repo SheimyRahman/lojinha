@@ -1,58 +1,9 @@
 [
     {
-        "id":"mac",
-        "title": "Mac mini i7 / 16gb ram",
+        "id":"furadeira",
+        "title": "Furadeira Com Impacto 600W GOODYEAR + Kit the brocas",
         "value": null,
-        "img": "/lojinha/assets/macmini/mac.jpg",
+        "img": "/garage-sale/products/furadeira/furadeira.jpg",
         "vendido": false
     },
-    {
-        "id":"camera",
-        "title": "Camera digital 12 mp",
-        "value": null,
-        "img" : "/lojinha/assets/camera.jpg",
-        "vendido": false
-    },
-    {
-        "id":"teclado",
-        "title":"Teclado bluetooth Logitech Pro",
-        "value": null,
-        "img": "/lojinha/assets/teclado.jpg",
-        "vendido": false
-    },
-    {
-        "id":"terreno",
-        "title": "Terreno em Nova Santa Rita 9x40",
-        "value": 50000,
-        "img" : "/lojinha/assets/terreno.jpg",
-        "vendido": false
-    },
-    {
-        "id":"sobrado",
-        "title": "Sobrado em Cachoeirinha",
-        "value": 235000,
-        "img" : "/lojinha/assets/sobrado.jpg",
-        "vendido": false
-    },
-    {
-        "id":"appletv",
-        "title": "Apple TV 3a. geração",
-        "value": null,
-        "img" : "/lojinha/assets/appletv.jpg",
-        "vendido": false
-    },
-    {
-        "id":"ipega",
-        "title": "Controle para Celular Ipega PG-9025",
-        "value": null,
-        "img" : "/lojinha/assets/ipega.jpg",
-        "vendido": false
-    },
-    {
-        "id":"dell",
-        "title": "PC Optiplex 780",
-        "value": 700,
-        "img" : "/lojinha/assets/dell.jpg",
-        "vendido": false
-    }
 ]
